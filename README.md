@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on @falathin
 - 😄 Pronouns: Indonesian
-- ⚡ Fun fact: My first Laptop ran on an Intel ATOM processo
+- ⚡ Fun fact: My first Laptop ran on an Intel ATOM processor
   <!-- - 📫 How to reach me ... -->
 
 <!---
