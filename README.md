@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @piscokz
-- 👀 I’m interested in M O N E Y
+- 👀 I’m interested in making MONEY
 - 🌱 I’m currently learning android
 - 💞️ I’m looking to collaborate on @falathin
 - 😄 Pronouns: Indonesian
-- ⚡ Fun fact: my first laptop using intel atom
+- ⚡ Fun fact: My first PC ran on an Intel ATOM processo
   <!-- - 📫 How to reach me ... -->
 
 <!---
